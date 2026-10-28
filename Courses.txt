@@ -1,6 +1,7 @@
-M3
+new subject: project management M3
 DDCO
 OS
 OOPS with JAVA
 DSA
 DSA lab
+new subject: project management with git
